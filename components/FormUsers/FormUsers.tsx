@@ -6,6 +6,7 @@ export default function FormUser() {
             <input type="text" />
             <h3>Pass</h3>
             <input type="password" />
+            <button><a href="/user/projects">enviar</a></button>
         </form>
         </>
     )
